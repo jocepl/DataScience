@@ -1,4 +1,4 @@
 # DataScience
 
-Entregables del cuarso DataScience - Comisión 32845 
+Entregables del curso DataScience - Comisión 32845 
 Jocelyne Paradas
