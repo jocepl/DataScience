@@ -1,2 +1,4 @@
-# DataScience1
-DataScience - 1ra entrega
+# DataScience
+
+Entregables del cuarso DataScience - Comisión 32845 
+Jocelyne Paradas
